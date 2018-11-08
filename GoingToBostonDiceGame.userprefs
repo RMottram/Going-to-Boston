@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B872A124-445C-4D65-B0E5-E114AEB2AF29}|Default">
+  <MonoDevelop.Ide.ItemProperties.GoingToBostonDiceGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoingToBostonDiceGame/Program.cs">
+    <Files>
+      <File FileName="GoingToBostonDiceGame/Program.cs" Line="135" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

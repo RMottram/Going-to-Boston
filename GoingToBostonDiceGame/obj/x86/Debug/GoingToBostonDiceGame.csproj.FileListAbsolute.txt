@@ -1,0 +1,21 @@
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.exe
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.pdb
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csproj.CoreCompileInputs.cache
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.exe
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.pdb
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.exe
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.pdb
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csprojResolveAssemblyReference.cache
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.exe
+//Mac/Home/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.pdb
+/Users/Ryan/Desktop/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csprojResolveAssemblyReference.cache
+/Volumes/RYAN'S USB/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csprojResolveAssemblyReference.cache
+/Volumes/RYAN'S USB/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csproj.CoreCompileInputs.cache
+/Volumes/RYAN'S USB/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.exe
+/Volumes/RYAN'S USB/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.pdb
+E:/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.exe
+E:/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.pdb
+E:/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.exe
+E:/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/bin/Debug/GoingToBostonDiceGame.pdb
+E:/University/PDaS/Assessment 3/GoingToBostonDiceGame/GoingToBostonDiceGame/obj/x86/Debug/GoingToBostonDiceGame.csprojResolveAssemblyReference.cache
