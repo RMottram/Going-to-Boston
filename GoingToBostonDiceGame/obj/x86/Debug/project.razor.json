@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/ryan/Documents/GitHub/Going-to-Boston/GoingToBostonDiceGame/GoingToBostonDiceGame.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
